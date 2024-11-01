@@ -1,0 +1,54 @@
+.divImagenMapaColombia{
+    text-align: center;
+}
+
+#imagenMapaColombia{
+    display: block;
+    margin: 0 auto;
+    max-width: 10%;
+    height: auto;
+}
+
+.boxH1{
+    height: 100%;
+    width: auto;
+}
+
+.tituloAPI{
+    color:black;
+    text-align: center;
+    font-family: Gistesy;
+    font-size: 60px;
+}
+
+.textoGeneral{
+    color:black;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.megaDiv{
+    text-align: center;
+    height: 100%;
+    width: auto;
+}
+
+.contenedor{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 0px;
+}
+
+.imagenesContenedor{
+    text-align: center;
+    height: 250px;
+    width: 250PX;
+    max-width: 50%;
+}
+
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
